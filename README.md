@@ -1,10 +1,13 @@
 This is a API system for tatoeba.org built on python-flask
 
+
 Setting Up:
+
     sudo apt-get install python-pip
     pip install virtualenv
 
 Setup development Environment by :
+
     cd sentences
     virtualenv venv
     . venv/bin/activate
@@ -14,6 +17,7 @@ Setup development Environment by :
 
 
 Usage: [Just the present implementation.]
+
     Run routes.py using "$python routes.py"    
     It runs it on localhost:5000
 
